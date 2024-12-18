@@ -23,8 +23,8 @@ Emotion classification based on human facial expression images, either he/she is
 ## Prerequisites
 
 - **Visual Studio Code**: 
-- **Python 3.11.9**: 
-- 
+- **Python 3.11.9**:
+  
 ## Setup Instructions
 
 ### 1. Environment Variable Setup
