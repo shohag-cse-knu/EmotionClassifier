@@ -1,0 +1,10 @@
+.vscode
+data/*
+!data/
+!data/.gitkeep
+models/*
+!models/
+!models/.gitkeep
+logs/*
+!logs/
+!logs/.gitkeep
