@@ -1,6 +1,7 @@
 # Emotion Classification using VGG16 and Basic CNN
 
 Emotion classification based on human facial expression images, either he/she is happy or not can be achieved based on pre-trained VGG16 model and Basic CNN model.
+98% accuracy can be achieved using VGG16 model whereas 88% accuracy achieved using basic CNN model.
 
 ## Project Details
 
