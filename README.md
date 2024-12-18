@@ -36,10 +36,9 @@ Note: I have installed python in D drive
 ```bash
 git clone https://github.com/shohag-cse-knu/EmotionClassifierCNN.git
 ````
-### 2. Download the dataset from Kaggle 
+### 3. Download the dataset from Kaggle 
 Extract and keep the happy and sad folder to data directory.
 [https://www.kaggle.com/datasets/saharnazyaghoobpoor/happy-and-sad-image](https://www.kaggle.com/datasets/saharnazyaghoobpoor/happy-and-sad-image)
-
 
 ### 4. Run
 Run All
